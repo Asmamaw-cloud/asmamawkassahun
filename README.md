@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on front end development, back end development and web application development
 - 📫 How to reach me email me @ akassahun2023@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
 <!---
